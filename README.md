@@ -125,5 +125,5 @@ Potential extensions to this project could include:
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Jiro75/Hospital-Queue-Simulator/blob/72f61dd3e29712d06b8355b717042a5368f38ce2/LICENSE) file for details
 
 ## 📫 Contact
-Email: mohamed.ahmed056@eng-st.cu.edu.eg <br>
-LinkedIn: [www.linkedin.com/in/mostafahany4705](https://www.linkedin.com/in/mohamed-sayed-283948332/)
+Email: mhd.salkini06@eng-st.cu.edu.eg<br>
+LinkedIn: [https://www.linkedin.com/in/ward-salkini-076a80353](https://www.linkedin.com/in/ward-salkini-076a80353/)
